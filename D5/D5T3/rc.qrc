@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rc/1.png</file>
+        <file>rc/10.png</file>
+        <file>rc/11.png</file>
+        <file>rc/12.png</file>
+        <file>rc/13.png</file>
+        <file>rc/14.png</file>
+        <file>rc/15.png</file>
+        <file>rc/16.png</file>
+        <file>rc/17.png</file>
+        <file>rc/18.png</file>
+        <file>rc/19.png</file>
+        <file>rc/2.png</file>
+        <file>rc/20.png</file>
+        <file>rc/21.png</file>
+        <file>rc/22.png</file>
+        <file>rc/23.png</file>
+        <file>rc/24.png</file>
+        <file>rc/25.png</file>
+        <file>rc/26.png</file>
+        <file>rc/27.png</file>
+        <file>rc/28.png</file>
+        <file>rc/29.png</file>
+        <file>rc/3.png</file>
+        <file>rc/30.png</file>
+        <file>rc/31.png</file>
+        <file>rc/32.png</file>
+        <file>rc/4.png</file>
+        <file>rc/5.png</file>
+        <file>rc/6.png</file>
+        <file>rc/7.png</file>
+        <file>rc/8.png</file>
+        <file>rc/9.png</file>
+        <file>rc/img.qrc</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+    </qresource>
+</RCC>

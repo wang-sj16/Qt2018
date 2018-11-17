@@ -1,0 +1,5 @@
+﻿C:\Software\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(D1T2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  D1T1_2.cpp
+d:\coding\vs\d1t1.2\d1t2\d1t1_2.cpp(48): warning C4172: 返回局部变量或临时变量的地址: age
+  D1T2.vcxproj -> D:\Coding\VS\D1T1.2\Debug\D1T1_2.exe

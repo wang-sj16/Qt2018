@@ -1,0 +1,87 @@
+N=16
+i j k runtime=0.008s
+i k j runtime=0.007s
+k i j runtime=0.01s
+k j i runtime=0.007s
+j i k runtime=0.006s
+j k i runtime=0.006s
+
+N=32
+i j k runtime=0.055s
+i k j runtime=0.056s
+k i j runtime=0.064s
+k j i runtime=0.056s
+j i k runtime=0.054s
+j k i runtime=0.058s
+
+N=64
+i j k runtime=0.427s
+i k j runtime=0.415s
+k i j runtime=0.42s
+k j i runtime=0.422s
+j i k runtime=0.415s
+j k i runtime=0.421s
+
+N=100
+i j k runtime=1.581s
+i k j runtime=1.598s
+k i j runtime=1.7s
+k j i runtime=1.684s
+j i k runtime=1.566s
+j k i runtime=1.565s
+
+N=128
+i j k runtime=3.237s
+i k j runtime=3.258s
+k i j runtime=3.448s
+k j i runtime=3.513s
+j i k runtime=3.259s
+j k i runtime=3.282s
+
+N=180
+i j k runtime=9.006s
+i k j runtime=9.061s
+k i j runtime=9.622s
+k j i runtime=9.861s
+j i k runtime=9.052s
+j k i runtime=9.151s
+
+N=256
+i j k runtime=26.017s
+i k j runtime=26.203s
+k i j runtime=27.64s
+k j i runtime=28.787s
+j i k runtime=25.915s
+j k i runtime=26.933s
+
+N=300
+i j k runtime=41.698s
+i k j runtime=42.052s
+k i j runtime=44.722s
+k j i runtime=46.609s
+j i k runtime=41.741s
+j k i runtime=44.021s
+
+N=380
+i j k runtime=84.926s
+i k j runtime=85.601s
+k i j runtime=90.892s
+k j i runtime=95.569s
+j i k runtime=84.701s
+j k i runtime=89.877s
+
+N=450
+i j k runtime=139.927s
+i k j runtime=141.342s
+k i j runtime=150.531s
+k j i runtime=157.327s
+j i k runtime=140.453s
+j k i runtime=149.452s
+
+N=512
+i j k runtime=207.716s
+i k j runtime=210.136s
+k i j runtime=223.224s
+k j i runtime=233.097s
+j i k runtime=207.607s
+j k i runtime=222.689s
